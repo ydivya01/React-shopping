@@ -1,0 +1,58 @@
+[
+    {
+        "ProductName": "Fancy Product",
+        "Price": "$40.00 - $80.00",
+        "ButtonView": "View options",
+        "Rating": "",
+        "GreyedPrice": ""
+    },
+    {
+        "ProductName": "Special Item",
+        "Price": "$80.00",
+        "ButtonView": "Add to Cart",
+        "Rating": "5",
+        "GreyedPrice": "$20.00"
+    },
+    {
+        "ProductName": "Sale Item",
+        "Price": "$25.00",
+        "ButtonView": "Add to Cart",
+        "Rating": "",
+        "GreyedPrice": "$50.00"
+    },
+    {
+        "ProductName": "Popular Item",
+        "Price": "$40.00",
+        "ButtonView": "Add to Cart",
+        "Rating": "5",
+        "GreyedPrice": ""
+    },
+    {
+        "ProductName": "Sale Item",
+        "Price": "$25.00",
+        "ButtonView": "Add to Cart",
+        "Rating": "",
+        "GreyedPrice": "$50.00 "
+    },
+    {
+        "ProductName": "Fancy Product",
+        "Price": "$120.00 - $280.00",
+        "ButtonView": "View options",
+        "Rating": "",
+        "GreyedPrice": ""
+    },
+    {
+        "ProductName": "Special Item",
+        "Price": "$18.00",
+        "ButtonView": "Add to Cart",
+        "Rating": "5",
+        "GreyedPrice": "$20.00"
+    },
+    {
+        "ProductName": "Popular Item",
+        "Price": "$40.00",
+        "ButtonView": "Add to Cart",
+        "Rating": "5",
+        "GreyedPrice": ""
+    }
+]
